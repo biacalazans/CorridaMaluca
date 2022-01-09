@@ -16,3 +16,8 @@
 * * *
 <p align="center"><img src="assets/images/captura1.png"></p>
 <p align="center"><img src="assets/images/captura2.png"></p>
+
+* * *
+# Créditos
+
+Esse projeto foi originalmente desenvolvido por [@Biacalazans](https://github.com/biacalazans) e atualizado por [@FrancisTaylor](https://github.com/Fr4ncisTaylor).
